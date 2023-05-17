@@ -1,16 +1,24 @@
-### Hi there 👋
+## Yiğit ERBİL<br>Threat Intelligence Analyst
+<p align="left"> <img target="_blank" src="https://avatars.githubusercontent.com/u/87313245?s=400&u=1ff3ddb81cc0f598b5dfa55fd4fe0cb670d0b460&v=4" align="right" height="265" />
+<a target="_blank" href="https://quadsec.hashnode.dev/" ><img target="_blank" height="25" src="https://img.shields.io/badge/Website%20&%20Blog-%230077B5.svg?&style=for-the-badge&color=gray"></a>
+<a target="_blank" href="https://www.linkedin.com/in/yigit-erbil/" ><img target="_blank" height="25" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&color=gray&logo=linkedin " alt="Linkedin : Yiğit ERBİL"></a>
+<a target="_blank" href="https://twitter.com/quad_sec" ><img target="_blank" height="25" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&color=gray&logo=twitter" alt="Twitter : @quad_sec"></a>
+<p>
+  
+ <hr>
+  
+<img src="https://img.shields.io/badge/-ubuntu-orange"/> <img src="https://img.shields.io/badge/-Windows-lightgrey"/> <img src="https://img.shields.io/badge/-PYTHON-blue"/> 
 
-<!--
-**qu4dSec/qu4dSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I prefer my main system Windows and Ubuntu as the software languages I use for the development environment and operating system. 
 
-Here are some ideas to get you started:
+In addition, while meeting all my Cyber Security and Software needs on this operating system, I prefer Python to develop my programs and use them in my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+
+<details>
+<summary><b>📈 Github Stats</b></summary>
+<br/>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qu4dSec&theme=darcula&utcOffset=8"/><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qu4dSec&theme=darcula"/>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qu4dSec&theme=darcula"/>
+</details>
