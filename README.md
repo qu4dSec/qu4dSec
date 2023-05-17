@@ -5,7 +5,10 @@
 <a target="_blank" href="https://twitter.com/quad_sec" ><img target="_blank" height="25" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&color=gray&logo=twitter" alt="Twitter : @quad_sec"></a>
 <p>
   
- <hr>
+Hello, I am a Threat Intelligence Analyst. I am working on Cyber Security and Cyber Intelligence. In addition to my 8 months of experience in cyber security, I have been constantly improving myself for 2 years.
+  
+  
+<hr>
   
 <img src="https://img.shields.io/badge/-ubuntu-orange"/> <img src="https://img.shields.io/badge/-Windows-lightgrey"/> <img src="https://img.shields.io/badge/-PYTHON-blue"/> 
 
