@@ -1,6 +1,6 @@
 ## Yiğit ERBİL<br>Threat Intelligence Analyst
 <p align="left"> <img target="_blank" src="https://avatars.githubusercontent.com/u/87313245?s=400&u=1ff3ddb81cc0f598b5dfa55fd4fe0cb670d0b460&v=4" align="right" height="265" />
-<a target="_blank" href="https://quadsec.hashnode.dev/" ><img target="_blank" height="25" src="https://img.shields.io/badge/Website%20&%20Blog-%230077B5.svg?&style=for-the-badge&color=gray"></a>
+<a target="_blank" href="https://quadsec.hashnode.dev/" ><img target="_blank" height="25" src="https://img.shields.io/badge/%20Blog-%230077B5.svg?&style=for-the-badge&color=gray"></a>
 <a target="_blank" href="https://www.linkedin.com/in/yigit-erbil/" ><img target="_blank" height="25" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&color=gray&logo=linkedin " alt="Linkedin : Yiğit ERBİL"></a>
 <a target="_blank" href="https://twitter.com/quad_sec" ><img target="_blank" height="25" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&color=gray&logo=twitter" alt="Twitter : @quad_sec"></a>
 <p>
